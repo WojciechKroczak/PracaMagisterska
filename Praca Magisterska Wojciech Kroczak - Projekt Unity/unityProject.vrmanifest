@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.pracamagisterska.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\backup magisterka 17.06 edycja zmiennych\\Praca Magisterska\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Praca Magisterska [Testing]"
+        }
+      }
+    }
+  ]
+}
